@@ -27,7 +27,7 @@
 <h1 align="center"> Achievements 
 <br><br>
 <p align="center">
-  <a href="https://github.com/zinping?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/>
 </p>
 </h1>
 
