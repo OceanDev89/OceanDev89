@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right">
   <br><br><br>
 
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Singapore Institue of Technology
   <br><br>
   💻 I love writing code and learn anythings about it
   <br><br>
